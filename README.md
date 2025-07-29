@@ -33,9 +33,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimagh-18&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Nima's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=nimagh-18&theme=tokyonight" alt="Nima's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimagh-18&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Nima's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nimagh-18&show_icons=true&theme=tokyonight&hide_rank=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20Streak" alt="Nima's GitHub Streak" />
 </p>
 
 ---
