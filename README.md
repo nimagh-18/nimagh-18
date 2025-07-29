@@ -9,23 +9,23 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineering Student  
-- 💻 Passionate about Python, Linux, and building useful tools  
-- 🎮 Sometimes I dive into game development and GUI projects using Tkinter & customtkinter  
-- 🌱 Currently learning: Rust, React, and System Architecture  
-- 🛠 I love clean code, open-source projects, and designing intuitive user experiences  
+- 🎓 Computer Engineering Student
+- 💻 Passionate about Python, Linux, and building useful tools
+- 🎮 Sometimes I dive into game development and GUI projects using Tkinter & customtkinter
+- 🌱 Currently learning: Rust, React, and System Architecture
+- 🛠 I love clean code, open-source projects, and designing intuitive user experiences
 
 ---
 
 ## 🛠 Skills & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 </div>
 
 ---
@@ -33,9 +33,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimagh-18&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimagh-18&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Nima's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nimagh-18&show_icons=true&theme=tokyonight&hide_rank=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20Streak" alt="Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=nimagh-18&theme=tokyonight" alt="Nima's GitHub Streak" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🐍 Watch my contribution snake
 
 <p align="center">
-  <img src="https://github.com/nimagh-18/nimagh-18/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/nimagh-18/nimagh-18/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -57,4 +57,3 @@
 <p align="center">
   Thanks for visiting my GitHub profile! 🙌
 </p>
-
